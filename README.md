@@ -1,8 +1,5 @@
-# Crawlee + PlaywrightCrawler + TypeScript project
+# Crawlee + PlaywrightCrawler + TypeScript AI Agent
 
-This template is a production ready boilerplate for developing with `PlaywrightCrawler`. Use this to bootstrap your projects using the most up-to-date code.
+AI Agent web crawlers!
 
-If you're looking for examples or want to learn more visit:
-
-- [Documentation](https://crawlee.dev/api/playwright-crawler/class/PlaywrightCrawler)
-- [Examples](https://crawlee.dev/docs/examples/playwright-crawler)
+I made some updates from the existing video, I now pull the text from the current page, so that information is also provided to the agent, so It can more reliably find things like pricing information on a companies page.
