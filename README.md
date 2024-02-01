@@ -1,4 +1,4 @@
-# Crawlee + PlaywrightCrawler + TypeScript AI Agent
+# Crawlee + PlaywrightCrawler + LangChain AI Agent
 
 AI Agent web crawlers!
 
